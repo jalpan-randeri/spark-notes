@@ -1,1 +1,14 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
 theme: jekyll-theme-dinky
+#remote_theme: broccolini/swiss
+## Set theme color here
+## Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+#theme_color: black
+
+## Build settings
+#markdown: kramdown
