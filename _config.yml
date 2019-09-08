@@ -4,6 +4,8 @@ relative_links:
   enabled: true
   collections: true
 
+exclude: README.md
+
 theme: jekyll-theme-dinky
 #remote_theme: broccolini/swiss
 ## Set theme color here
